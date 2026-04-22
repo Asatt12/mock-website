@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Support | NorthPeak Nutrition</title>
+  <meta name="description" content="Contact NorthPeak support for product, shipping, and ingredient questions.">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="./index.html"><span class="brand-mark">NP</span><span>NorthPeak Nutrition</span></a>
+      <nav class="nav">
+        <a href="./index.html#products">Products</a>
+        <a href="./index.html#science">Science</a>
+        <a href="./reviews.html">Reviews</a>
+        <a href="./learn.html">Learn</a>
+        <a href="./contact.html">Contact</a>
+      </nav>
+      <a class="btn btn-outline" href="./cart.html">Cart (<span class="cart-count">0</span>)</a>
+    </div>
+  </header>
+  <main class="section">
+    <div class="container contact-grid">
+      <article class="card">
+        <h1>Support + Contact</h1>
+        <p>Email: support@northpeaknutrition.com</p>
+        <p>Phone: +1 (555) 010-7884</p>
+        <p>Hours: Mon-Fri, 9am-6pm PT</p>
+        <h2>Common Topics</h2>
+        <ul class="check-list">
+          <li>Order and shipping support</li>
+          <li>Supplement usage questions</li>
+          <li>Lot number and quality verification</li>
+          <li>Subscription changes</li>
+        </ul>
+      </article>
+      <form class="card form" id="contact-form">
+        <label for="name">Name</label>
+        <input id="name" name="name" required>
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" required>
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6" required></textarea>
+        <button class="btn btn-primary" type="submit">Submit</button>
+        <p id="form-status" class="small muted"></p>
+      </form>
+    </div>
+  </main>
+  <script src="./script.js"></script>
+</body>
+</html>
