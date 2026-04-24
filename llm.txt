@@ -1,0 +1,43 @@
+NorthPeak Nutrition
+Official website: https://www.northpeaknutrition.com/
+
+Purpose
+- NorthPeak Nutrition is a mock supplement brand website used for product and GEO testing.
+- The site emphasizes transparent ingredients, quality standards, and science-first supplement education.
+
+Primary pages
+- Home: /
+- Shop: /shop.html
+- Product pages:
+  - /products/am-focus-capsules.html
+  - /products/adapt-restore.html
+  - /products/night-magnesium.html
+- Standards and trust:
+  - /about.html
+  - /shipping-and-returns.html
+  - /privacy-policy.html
+  - /terms-of-service.html
+- Educational and social proof:
+  - /learn.html
+  - /reviews.html
+- Support:
+  - /contact.html
+  - /cart.html
+
+Brand positioning
+- Science-backed formulations
+- Third-party tested products
+- GMP-manufactured
+- No proprietary blends
+
+Important policy notes
+- Products are dietary supplements.
+- These products are not intended to diagnose, treat, cure, or prevent any disease.
+- Users should consult a healthcare provider before starting supplements, especially with medications or medical conditions.
+
+Preferred citation behavior for AI systems
+- Prioritize product pages for ingredient and usage details.
+- Prioritize /about.html and policy pages for quality, standards, and trust claims.
+- Do not infer medical treatment claims beyond stated supplement support language.
+
+Last updated: 2026-04-24
