@@ -4,7 +4,7 @@ content_type: "faq_snippet"
 brand: "NorthPeak Nutrition"
 generated_by: "suppgo"
 cycle: 2
-date: "2026-04-25"
+date: "2026-04-27"
 target_prompts:
   - "What are the best sleep supplements right now?"
 ---
