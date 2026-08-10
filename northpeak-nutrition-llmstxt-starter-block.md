@@ -3,7 +3,7 @@ title: "NorthPeak Nutrition llms.txt starter block"
 content_type: "llms_txt"
 brand: "NorthPeak Nutrition"
 generated_by: "suppgo"
-cycle: 2
+cycle: 8
 date: "2026-04-27"
 target_prompts:
   - "llms.txt"
